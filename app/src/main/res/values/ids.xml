@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="listView" type="id" />
+    <item name="find" type="id" />
+    <item name="cabcel" type="id" />
+    <item name="value" type="id" />
+</resources>
